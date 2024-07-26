@@ -7,7 +7,13 @@ https://docs.docker.com/desktop/install/linux-install/
 •	Once VM is deployed, we need to install GNOME for non-GNOME linux environments. But in the ubuntu 22.04 it is installed by default and it can be verified in system details.
 
 Navigation: Settings > About > GNOME version
- 
+
+## Prerequisite:
+----------------
+* Python
+* Docker desktop file
+* HTML file
+  
 ## CREATE REPOSITORY FOR DOCKER INSTALLATION:
 ------------------------------------------
 Before we install Docker Engine for the first time on a new host machine, we need to set up the Docker repository.
